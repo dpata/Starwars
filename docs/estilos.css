@@ -1,0 +1,32 @@
+
+#luke {
+    font-style: italic;
+}
+
+.imperio { background-color: red;
+} 
+
+.rebeldes { background-color: blue;
+} 
+
+#darkvader {
+    font-size: 100px; /* Tamaño de fuente grande */
+}
+
+.soldados {  border-top: 2px solid red;
+    border-right: 1px dashed green;
+    border-bottom: 3px dotted blue;
+    border-left: 4px double black;
+    border-style: dashed;
+} 
+
+.espacio_soldados { letter-spacing: 3px;
+} 
+
+.centrada_apoyo { text-align: center;
+
+} 
+
+.mayusculas { text-transform: uppercase;
+
+} 
